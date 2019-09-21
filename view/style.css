@@ -1,0 +1,62 @@
+.sort-div {
+    margin-bottom: 25px;
+}
+
+.add-new-task {
+    margin-bottom: 20px;
+}
+
+.add-task {
+    margin-bottom: 20px;
+}
+
+.add {
+    margin-top: 10px;
+}
+
+.task {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 25px;
+}
+
+.authorization, .exit {
+    top: 50px;
+    right: 0px;
+    margin-right: 50px;
+    position: absolute;
+}
+
+.name {
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+.email {
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+.text {
+    width: 250px;
+}
+
+.no-completed {
+    color: darkred;
+}
+
+.completed {
+    color: green;
+}
+
+.no-completed, .completed {
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.editAdmin {
+    width: 250px;
+    margin-top: 10px;
+    color: green;
+}
